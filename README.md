@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Tejas Pawar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=Python+Backend+Developer;Flask+%7C+SQL+%7C+APIs;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=SQL+Developer;Oracle+SQL+%7C+Database+Design;Building+Real+Projects" />
 </p>
 
 ---
 
 - 💻 I’m currently working on improving my development skills  
 - 🤝 I’m looking to collaborate on open source projects  
-- 📚 I’m looking for help with backend development  
-- 🌱 I’m currently learning software development technologies  
-- 💬 Ask me about programming and problem solving  
+- 📚 I’m exploring database design and SQL optimization  
+- 🌱 I’m currently learning database and software development technologies  
+- 💬 Ask me about SQL and problem solving  
 - ⚡ Fun fact: I enjoy building real projects  
 
 ---
@@ -28,7 +28,6 @@
 ## 💻 Tech Stack:
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-black?logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/OracleSQL-red?logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
@@ -39,7 +38,6 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
 </p>
 
 ---
