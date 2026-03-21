@@ -6,12 +6,11 @@
 
 ---
 
-- 💻 I’m currently working on improving my development skills  
-- 🤝 I’m looking to collaborate on open source projects  
-- 📚 I’m exploring database design and SQL optimization  
-- 🌱 I’m currently learning database and software development technologies  
-- 💬 Ask me about SQL and problem solving  
-- ⚡ Fun fact: I enjoy building real projects  
+💻 I’m currently working on improving my SQL and database development skills  
+📚 I’m exploring database design and SQL optimization  
+🌱 I’m currently learning database and software development technologies  
+💬 Ask me about SQL and problem solving  
+⚡ Fun fact: I enjoy building real projects
 
 ---
 
