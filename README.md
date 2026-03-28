@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tejas Pawar</h1>
+<h1 align="center">Hi 👋, I'm Tejas Pawar | SQL Developer</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=SQL+Developer;Oracle+SQL+%7C+Database+Design;Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=500&lines=SQL+Developer;Oracle+SQL+%7C+Database+Design;Building+Real-World+Projects" />
 </p>
 
 ---
 
-💻 I’m currently working on improving my SQL and database development skills  
-📚 I’m exploring database design and SQL optimization  
-🌱 I’m currently learning database and software development technologies  
-💬 Ask me about SQL and problem solving  
-⚡ Fun fact: I enjoy building real projects
+🚀 Passionate about writing optimized SQL queries and solving real-world database problems  
+
+💻 Focused on SQL and database development  
+📚 Exploring database design and query optimization  
+💬 Ask me about SQL, joins, and subqueries  
+⚡ I enjoy building real-world database projects  
 
 ---
 
@@ -32,11 +33,9 @@
   <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-orange?logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-black?logo=netlify&logoColor=00C7B7"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white"/>
 </p>
 
 ---
@@ -44,7 +43,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tejas-pawar17&show_icons=true&theme=radical"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tejas-pawar17&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=tejas-pawar17&theme=radical"/>
 </p>
 
 <p align="center">
