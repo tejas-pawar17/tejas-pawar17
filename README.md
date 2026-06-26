@@ -1,91 +1,94 @@
+```markdown
 <h1 align="center">Hi 👋, I'm Tejas Pawar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=700&lines=QA+Engineer+%7C+Manual+Testing+%7C+STLC;SQL+Developer+%7C+Oracle+SQL+%7C+PL%2FSQL;JIRA+%7C+Defect+Tracking+%7C+Test+Cases;Open+to+Work+%7C+Immediate+Joiner+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=007ACC&center=true&vCenter=true&width=700&lines=Manual+Testing+%7C+Oracle+SQL;Software+Testing+%7C+SQL+Developer;Jira+%7C+Test+Cases+%7C+API+Testing;Open+to+Work+%7C+Immediate+Joiner" />
 </p>
 
 ---
 
-- 🔍 Passionate about **Manual Testing**, test case design, and ensuring software quality
-- 🗄️ Skilled in **Oracle SQL & PL/SQL** — writing optimized queries and designing relational databases
-- 🐛 Experienced in **defect tracking** using JIRA and complete SDLC/STLC lifecycle
-- 💬 Ask me about **Manual Testing, SQL Joins, Subqueries, Test Cases, JIRA**
-- 📍 Based in **Pune, India** | 🟢 **Open to Work — Immediate Joiner**
-- 📧 Reach me at **tejaspawardev@gmail.com**
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Graduate (2025)
+- 🔍 Passionate about **Manual Testing** and **Oracle SQL**
+- 🧪 Skilled in Test Case Design, Defect Reporting, SDLC & STLC
+- 🗄️ Hands-on experience with Oracle SQL, Joins, Subqueries and Relational Database Design
+- 🐞 Familiar with Jira, API Testing and SQL*Plus
+- 📍 Pune, India
+- 🟢 Open to Work | Immediate Joiner
 
 ---
 
-## 🌐 Connect with me:
+## 🛠 Tech Stack
 
-<p align="center">
-  <a href="https://instagram.com/tejas.pawar17"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/tejas-pawar17"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/pawartejas17"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"/></a>
-  <a href="mailto:tejaspawardev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+### 🧪 Software Testing
+
+<p>
+<img src="https://img.shields.io/badge/Manual_Testing-00897B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STLC-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test_Case_Design-3949AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 
----
+### 🗄 Database & SQL
 
-## 💻 Tech Stack:
-
-**🔍 QA & Testing**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Testing-00897B?logo=testinglibrary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?logo=jira&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SDLC%20%7C%20STLC-6A1B9A?logoColor=white"/>
-  <img src="https://img.shields.io/badge/Functional%20Testing-FF7043?logoColor=white"/>
-  <img src="https://img.shields.io/badge/Regression%20Testing-1565C0?logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
 </p>
 
-**🗄️ Database**
+### ⚙️ Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OracleSQL-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DB%20Design%20%7C%20Normalization-0277BD?logoColor=white"/>
-</p>
-
-**🛠️ Tools & Others**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white"/>
+<p>
+<img src="https://img.shields.io/badge/SQL*Plus-F80000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 Projects:
+## 🚀 Featured Projects
 
-### 🛒 Swag Labs E-Commerce Website Testing
-> Manual Testing project on a real e-commerce web app
-- ✅ Created test cases for Login, Add to Cart, Checkout & Logout
-- ✅ Performed Functional, Smoke & Regression Testing
-- ✅ Tracked and reported defects using **JIRA**
-- ✅ Compared actual vs expected results for all scenarios
+### 🧪 Swag Labs Manual Testing
+- Test Scenarios & Test Cases
+- Functional, Smoke & Regression Testing
+- Bug Reporting
+- Jira Documentation
 
-### 🗄️ SQL-Based Job Portal Management System
-> Relational database project using Oracle SQL
-- ✅ Designed normalized database with **5 interlinked tables** (Candidate, Company, Job, Application, Interview)
-- ✅ Applied **1NF, 2NF, 3NF** normalization to eliminate redundancy
-- ✅ Wrote **28+ SQL queries** using JOINs, Subqueries, GROUP BY, HAVING & aggregate functions
-- ✅ Enforced data integrity using Primary Key & Foreign Key constraints
+🔗 Repository: https://github.com/tejas-pawar17/swaglabs-manual-testing
 
 ---
 
-## 📊 GitHub Stats:
+### 🗄 Job Portal Database Management System
+- Oracle SQL
+- ER Modeling
+- Normalization
+- SQL Queries using JOINs & Subqueries
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-pawar17&show_icons=true&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=tejas-pawar17&theme=radical"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-pawar17&layout=compact&theme=radical"/>
-</p>
+🔗 Repository: https://github.com/tejas-pawar17/job-portal-sql
 
 ---
 
-<h3 align="center">✨ Made with ❤️ by Tejas Pawar</h3>
+## 📫 Connect With Me
+
+- 📧 **Email:** tejaspawardev@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/tejas-pawar17
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tejas-pawar17&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-pawar17&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-pawar17&layout=compact&theme=tokyonight"/>
+</p>
+```
